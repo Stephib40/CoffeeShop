@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<address>
+    Start Garden<br />
+    Grand Rapids, MI <br />
+    <abbr title="Phone">P:</abbr>
+    616-555-1212
+</address>
+<head>
+<style>
+	#map {
+		height: 400px;
+		width: 100%;
+	}
+</style>
+  </head>
+<body>
+	<h3>Visit Stephi B's Coffee Haus</h3>
+	<div id="map"></div>
+	<script>
+      function initMap() {
+		  var uluru = { lat: 42.9661576, lng: -85.6721016};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 4,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
+	</script>
+	<script async defer
+			src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAG4mz0hLyrzwRkAhTrwQ9U88x6EgTqx1A&callback=initMap">
+	</script>
+</body>
+
+<address>
+    <strong>Support:</strong>   <a href="mailto:Geeks@StephiBCoffeeHaus.com">Geeks@StephiBCoffeeHaus.com</a><br />
+    <strong>Marketing:</strong> <a href="mailto:Marketing@StephiBCoffeeHaus.com">Marketing@StephiBCoffeeHaus.com</a>
+</address>

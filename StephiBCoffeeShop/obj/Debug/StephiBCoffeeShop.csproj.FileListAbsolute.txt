@@ -1,0 +1,144 @@
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\ApplicationInsights.config
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\csc.exe
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\csc.exe.config
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\csc.rsp
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\csi.exe
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\csi.rsp
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.AppContext.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.Collections.Immutable.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.IO.FileSystem.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\vbc.exe
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\vbc.exe.config
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\vbc.rsp
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\VBCSCompiler.exe
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\VBCSCompiler.exe.config
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\StephiBCoffeeShop.dll.config
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\StephiBCoffeeShop.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\StephiBCoffeeShop.pdb
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Antlr3.Runtime.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.Web.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.WindowsServer.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.ApplicationInsights.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.Web.Infrastructure.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Newtonsoft.Json.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Helpers.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Mvc.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Optimization.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Razor.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.Deployment.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.Razor.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\WebGrease.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Helpers.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Mvc.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Optimization.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Razor.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.Deployment.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.Razor.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Antlr3.Runtime.pdb
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Newtonsoft.Json.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.ApplicationInsights.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.WindowsServer.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.Web.xml
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\obj\Debug\StephiBCoffeeShop.csprojResolveAssemblyReference.cache
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\obj\Debug\StephiBCoffeeShop.dll
+c:\users\steph\onedrive\documents\visual studio 2017\Projects\StephiBCoffeeShop\StephiBCoffeeShop\obj\Debug\StephiBCoffeeShop.pdb
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\ApplicationInsights.config
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\csc.exe
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\csc.exe.config
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\csc.rsp
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\csi.exe
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\csi.rsp
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.AppContext.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\vbc.exe
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\vbc.exe.config
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\vbc.rsp
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\StephiBCoffeeShop.dll.config
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\StephiBCoffeeShop.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\StephiBCoffeeShop.pdb
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Antlr3.Runtime.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.Web.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Newtonsoft.Json.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Helpers.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Mvc.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Optimization.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Razor.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\WebGrease.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Helpers.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Mvc.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Optimization.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Razor.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Antlr3.Runtime.pdb
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Newtonsoft.Json.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\Microsoft.AI.Web.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\obj\Debug\StephiBCoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\obj\Debug\StephiBCoffeeShop.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\obj\Debug\StephiBCoffeeShop.pdb
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\EntityFramework.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\EntityFramework.SqlServer.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\EntityFramework.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\EntityFramework.SqlServer.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Net.Http.Formatting.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Http.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Http.WebHost.dll
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Net.Http.Formatting.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Http.xml
+C:\Users\steph\Documents\StephiBCoffeeShop\StephiBCoffeeShop\bin\System.Web.Http.WebHost.xml

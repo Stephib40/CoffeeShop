@@ -1,0 +1,103 @@
+﻿@model Lab20.Models.Register
+@{
+    ViewBag.Title = "";
+}
+<h2>@ViewBag.Title</h2>
+<h3>@ViewBag.Message</h3>
+<head>
+	<link rel="stylesheet" type="text/css" href="~/Content/RegStyle.css">
+</head>
+
+
+	<h2>Register with us to receive awesome coffee news and local promotions !</h2> @*@using (Html.BeginForm())
+{
+	@Html.AntiForgeryToken()
+	@Html.ValidationSummary(true)
+	<form class="form-primary" action="Success">
+		<fieldset class="form-group">
+			<div class="">
+				@Html.LabelFor(Lab20Model => Lab20Model.FirstName, "First Name", new { style = "display:inline;" })
+				@Html.EditorFor(Lab20Model => Lab20Model.FirstName)
+			</div>
+			<div>
+				@Html.LabelFor(model => model.Email, "Email", new { style = "white-space: pre-line"})
+				@Html.EditorFor(model => model.Email)
+			</div>
+
+		</fieldset>
+	</form>*@
+
+
+
+
+	<body>
+
+		<form name="Reg" onsubmit="return ValidateForm()" action="Success" method="post">
+
+			First name:<br>
+			<input type="text" name="firstname" required>
+			<br>
+			Last name:<br>
+			<input type="text" name="lastname" required>
+			<br>
+			Nickname: <br>
+			<input type="text" name="nickname">
+			<br>
+			City: <br>
+			<input type="text" name="city" required>
+			<br>
+			Phone:<br>
+			<input type="phone number" name="Phone Number" required>
+			<br>
+			Email:<br>
+			<input type="email" name="email" required />
+			<br />
+			Password:<br>
+			<input type="password" name="Password" required>
+			<!--<input type="submit" value="Submit">moved the submit button down to under fav coffee-->
+			<br>
+			What is your favorite way to enjoy coffee:<br>
+			<!--<input type="text" name="favorite coffee" required> did a drop down menu instead-->
+			<!--<form action="/action_page.php">-->
+			<select name="Coffee">
+				<option value="Regular Coffee">Regular Coffee</option>
+				<option value="Iced Coffee">Iced Coffee</option>
+				<option value="Latte">Latte</option>
+				<option value="Cappuccino">Cappuccino</option>
+				<option value="Espresso">Espresso</option>
+				<option value="Americano">Americano</option>
+				<option value="Macchiato">Macchiato</option>
+			</select>
+			<br><br>
+			<input type="submit" class="btn-custom" value="Submit" />
+			<input type="reset" class="btn-custom" value="Clear" />
+			<br />
+			<!-- <input type="submit"> had 2 submit buttons removed this one-->
+			<!--</form>
+			<input type="submit" value="Submit">
+			<br/>-->
+		</form>
+	
+		<script>
+			function validateForm() {
+				var fName = document.forms["Reg"]["FirstName"].value;
+				if (fName == "") {
+					alert("Name must be filled out");
+					return false;
+				}
+
+				var email = document.forms["Reg"]["email"].value;
+
+				if (email == "") {
+					alert("Email Must filled out");
+					return false;
+				}
+			}
+		</script>
+
+
+	</body>
+
+
+
+
